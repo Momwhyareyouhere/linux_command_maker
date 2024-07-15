@@ -1,6 +1,7 @@
 # Custom linux command maker
 
 This Project provides a simple command-line interface to create, delete, and list custom Linux commands on your system.
+Theres also a example file and example command if you want you can test it out
 
 ## Features
 
