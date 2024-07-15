@@ -31,7 +31,7 @@ pwd
 
 ## Tutorial
 Watch the video below for some help:
-[[UNAVAILABLE NOW]([https://youtu.be/mRLsAfXO_Dc](https://youtu.be/mRLsAfXO_Dc))](https://youtu.be/mRLsAfXO_Dc)
+[https://youtu.be/mRLsAfXO_Dc](https://youtu.be/mRLsAfXO_Dc)
 
 
 
