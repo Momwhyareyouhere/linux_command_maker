@@ -31,7 +31,7 @@ pwd
 
 ## Tutorial
 Watch the video below for some help:
-[https://youtu.be/mRLsAfXO_Dc](https://youtu.be/mRLsAfXO_Dc)
+![Alt text](videos/video1.png)
 
 
 
