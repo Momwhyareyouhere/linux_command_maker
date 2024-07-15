@@ -31,7 +31,7 @@ pwd
 
 ## Tutorial
 Watch the video below for some help:
-![Alt text](videos/video1.png)
+![Alt text](videos/video1.mp4)
 
 
 
