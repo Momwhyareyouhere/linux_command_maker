@@ -31,7 +31,7 @@ pwd
 
 ## Tutorial
 Watch the video below for some help:
-![Alt text](videos/"Screen recording 2024-07-15 10.35.35 AM.webm")
+https://youtu.be/mRLsAfXO_Dc
 
 
 
