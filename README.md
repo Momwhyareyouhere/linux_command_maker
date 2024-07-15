@@ -22,6 +22,13 @@ Run the script:
 chmod +x main.sh
 ./main.sh
 ```
+
+To find you path type:
+```
+pwd
+```
+
+
 ## Tutorial
 Watch the video below for some help:
 UNAVAILABLE NOW
