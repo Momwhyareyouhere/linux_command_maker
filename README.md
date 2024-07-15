@@ -24,6 +24,8 @@ chmod +x main.sh
 ```
 ## Tutorial
 Watch the video below for some help:
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+UNAVAILABLE NOW
+
+
 
 
