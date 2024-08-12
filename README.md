@@ -2,6 +2,7 @@
 
 This Project provides a simple command-line interface to create, delete, and list custom Linux commands on your system.
 Theres also a example file and example command if you want you can test it out
+Theres also a .deb file To download click [here](<https://github.com/Momwhyareyouhere/linux_command_maker/releases/download/new/linux-command-maker.deb>) or if you dont want you can test our other two method too
 
 ## Features
 
@@ -28,6 +29,23 @@ To find you path type:
 pwd
 ```
 
+If you dont want to do both of them use this:
+```
+wget https://github.com/Momwhyareyouhere/linux_command_maker/releases/download/news/linux-command-maker-setup.sh
+chmod +x linux-command-maker-setup.sh
+./linux-command-maker-setup.sh
+```
+after that run:
+```
+sudo apt install linux-command-maker
+```
+
+To delete run:
+```
+wget https://github.com/Momwhyareyouhere/linux_command_maker/releases/download/deletor/linux-command-maker-deletor.sh
+chmod +x linux-command-maker-deletor.sh
+./linux-command-maker-deletor.sh
+```
 
 ## Tutorial
 Watch the video below for some help:
