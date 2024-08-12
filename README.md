@@ -46,6 +46,10 @@ wget https://github.com/Momwhyareyouhere/linux_command_maker/releases/download/d
 chmod +x linux-command-maker-deletor.sh
 ./linux-command-maker-deletor.sh
 ```
+after that run:
+```
+sudo apt remove linux-command-maker
+```
 
 ## Tutorial
 Watch the video below for some help:
