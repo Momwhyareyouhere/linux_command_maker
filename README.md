@@ -13,23 +13,13 @@ Theres also a .deb file To download click [here](<https://github.com/Momwhyareyo
 
 ## Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Momwhyareyouhere/linux_command_maker.git
-   cd linux_command_maker
-   ```
-Run the script:
-```
-chmod +x main.sh
-./main.sh
-```
 
 To find you path type:
 ```
 pwd
 ```
 
-If you dont want to do both of them use this:
+Run this script:
 ```
 wget https://github.com/Momwhyareyouhere/linux_command_maker/releases/download/news/linux-command-maker-setup.sh
 chmod +x linux-command-maker-setup.sh
